@@ -1,24 +1,11 @@
-
 # Calculator
+This is a simple calculator which is capable to doing calculation like addition, subtraction, multiplication, division.
 
-Simple fully functional Calculator
-
-
-## Live Preview
-
-Calculator - https://sim-cal.netlify.app/
+## Demo: <a href='https://js-calsi.netlify.app/'>Live Preview</a>
 
 
-## Screenshots
-
-![calculator](https://user-images.githubusercontent.com/105339279/194584808-8bb295e8-7dd3-4861-9065-e2f80477a860.png)
-
-
-
-
-## Technology Used
-
-**UI Design:** HTML, CSS
-
-**Functionality:** JavaScript
+## Tech Stack : 
+* HTML5
+* CSS3
+* JavaScript
 
